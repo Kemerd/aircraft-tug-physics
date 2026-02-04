@@ -89,4 +89,4 @@ Do whatever you want with it. If it helps you win your own physics argument, I c
 
 ---
 
-*The friend was wrong, by the way.*
+*The friend was right, by the way..*
